@@ -1,0 +1,7 @@
+{
+  "name": "amazon-clone-upgraded",
+  "private": true,
+  "scripts": {
+    "start": "docker-compose up --build"
+  }
+}
